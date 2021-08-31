@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1555351261 source:c:\users\ektor\downloads\monopoly\actions.cpp
+	<iostream>
+	"actions.h"
+
+1554238698 c:\users\ektor\downloads\monopoly\actions.h
+	"bank.h"
+	"space.h"
+	"player.h"
+
+1551912604 c:\users\ektor\downloads\monopoly\bank.h
+	<string>
+
+1554240024 c:\users\ektor\downloads\monopoly\space.h
+	<string>
+
+1554240185 c:\users\ektor\downloads\monopoly\player.h
+	<string>
+
+1555352166 source:c:\users\ektor\downloads\monopoly\player.cpp
+	<iostream>
+	<sstream>
+	"player.h"
+
+1555351917 source:c:\users\ektor\downloads\monopoly\space.cpp
+	<iostream>
+	"space.h"
+
+1555351014 source:c:\users\ektor\downloads\monopoly\bank.cpp
+	"bank.h"
+
+1554239914 source:c:\users\ektor\downloads\monopoly\dice.cpp
+	<cstdlib>
+	"dice.h"
+
+1554240344 c:\users\ektor\downloads\monopoly\dice.h
+
+1554219492 source:c:\users\ektor\downloads\monopoly\helpers.cpp
+	<sstream>
+	<cstring>
+	<iostream>
+	"helpers.h"
+
+1554237993 c:\users\ektor\downloads\monopoly\helpers.h
+	<iterator>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<cstdlib>
+	"space.h"
+	"player.h"
+
+1555345583 source:c:\users\ektor\downloads\monopoly\main.cpp
+	<time.h>
+	<iostream>
+	<string>
+	<sstream>
+	<cstdlib>
+	"player.h"
+	"space.h"
+	"dice.h"
+	"bank.h"
+	"helpers.h"
+	"actions.h"
+
